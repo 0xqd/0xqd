@@ -5,6 +5,7 @@ Open-source repositories I'm currently maintaining:
 - [Solcraft](https://github.com/0xqd/solcraft) - Optimized and experimental Solidity code.
 - [Earthly-Reth](https://github.com/0xqd/earthly-reth) - Fast CI/CD for reth using earthly.
 - [Seqlock-rs](https://github.com/0xqd/seqlock-rs) - Fast seq lock implementation in rust.
+- [cachez](https://github.com/0xqd/cachez) - Cachez: A High-Performance Caching
 
 I also love to contribute to other projects:
 
